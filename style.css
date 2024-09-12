@@ -119,13 +119,24 @@ form button:hover {
     transform: scale(1.1);
 }
 
+/* Existing result styles */
 #result {
     margin-top: 20px;
     font-size: 20px;
     font-weight: bold;
     color: #4CAF50;
     transition: color 0.3s ease;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.8); /* Light background for better visibility */
+    border: 2px solid #4CAF50; /* Green border for emphasis */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Text shadow for better readability */
+    width: fit-content; /* Adjust width to content size */
+    margin-left: auto; /* Center the result box */
+    margin-right: auto;
 }
+
 
 #result:hover {
     color: #2E7D32;
