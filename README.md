@@ -4,4 +4,4 @@ https://ahmedrafat23.github.io/Fellows
 
 ![2024-09-11](https://github.com/user-attachments/assets/ba0a25d8-ee6a-4aac-a8df-79f08aee8a71)
 
-(https://github.com/user-attachments/assets/98b6e4e0-fd50-4bbf-b38d-a8aff3b29019)
+![DALL·E 2024-09-12 06 25 20 - Create a modern, dynamic, and visually engaging website design for a global currency converter project called 'Fellows'  The design should be sleek, w](https://github.com/user-attachments/assets/98b6e4e0-fd50-4bbf-b38d-a8aff3b29019)
